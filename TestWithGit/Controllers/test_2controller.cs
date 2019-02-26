@@ -7,7 +7,7 @@ namespace TestWithGit.Controllers
 {
     public class test_2controller
     {
-        string temp = "alex";
+        string temp = "alex- The King";
         int x = 10;
     }
 }
