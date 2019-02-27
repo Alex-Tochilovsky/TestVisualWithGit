@@ -10,7 +10,6 @@ namespace TestWithGit.Controllers
         string temp = "alex- The King";
         int x = 10;
         int k = 30;
-        float alex = 555.6;
-        string stom;
+        double alex = 555.6;
     }
 }
