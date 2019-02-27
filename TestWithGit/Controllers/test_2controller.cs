@@ -11,5 +11,6 @@ namespace TestWithGit.Controllers
         int x = 10;
         int k = 30;
         double alex = 555.6;
+        int t = 8;
     }
 }
